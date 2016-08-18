@@ -2,6 +2,7 @@
 alias tree 'tree -C --dirsfirst'
 alias grep 'grep -I -n --color'
 alias f 'ls -b -CF --color=auto'
+alias l 'ls -ltrh'
 alias llrt 'ls -lrt'
 alias hi 'history'
 alias cgr '/home/alenz/Documents/Scripts/cgr'
