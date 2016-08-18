@@ -1,0 +1,10 @@
+# Alias configuration
+alias tree='tree -C --dirsfirst'
+alias grep='grep -I -n --color'
+alias f='ls -b -CF --color=auto'
+alias llrt='ls -lrt'
+alias hi='history'
+alias cgr='/home/alenz/Documents/Scripts/cgr'
+alias instr='/home/alenz/Documents/Scripts/instr'
+alias cdg='cd /home/alenz/Projects/Gerrit'
+alias cdn='cd /home/alenz/Projects/Gerrit/nicos/nicos-core'
