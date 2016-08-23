@@ -17,6 +17,7 @@ set __fish_git_prompt_char_upstream_behind '-'
 # Colors
 set fish_color_user -o blue
 set fish_color_cwd -o green
+set fish_color_host -o cyan
 
 function fish_prompt --description 'Write out the prompt'
 	set -l last_status $status
